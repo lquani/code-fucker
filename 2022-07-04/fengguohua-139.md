@@ -2,7 +2,7 @@
 https://leetcode.com/problems/word-break/
 
 ## 思路
-背包问题:
+背包问题: \
 wordDict[i] 作为物品大小
 s.length() 作为背包大小
 转化:wordDict 物品的排列恰好能构成 背包 s
